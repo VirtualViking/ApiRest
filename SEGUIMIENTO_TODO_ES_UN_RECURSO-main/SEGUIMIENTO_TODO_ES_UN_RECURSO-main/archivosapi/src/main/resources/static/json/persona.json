@@ -1,0 +1,11 @@
+{
+    "nombre": "John Sebastian Castañeda Hoyos",
+    "edad": 34,
+    "profesion": "Estudiante Ingenieria de Software",
+    "nacionalidad": "Colombiano",
+    "intereses": [
+        "Programación",
+        "Fútbol",
+        "Running"
+    ]
+}
